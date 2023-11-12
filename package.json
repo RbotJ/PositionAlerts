@@ -1,0 +1,13 @@
+{
+    "name": "your-app-name",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node your-main-script.js"
+        // other scripts
+    },
+    "dependencies": {
+        // your dependencies
+    }
+}
