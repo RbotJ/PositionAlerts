@@ -1,0 +1,5 @@
+discord.py==2.2.3
+python-dotenv==1.0.0
+yfinance==0.2.18
+schedule==1.2.0
+alpaca-py==0.8.2
